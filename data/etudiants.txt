@@ -1,4 +1,0 @@
-1;benali;sara;GI;14.5;etu_65a1.jpg;sara.benali@example.com
-2;elamrani;karim;IDIA;16.75;;karim.elamrani@example.com
-3;chraibi;yasmine;GE;9;;yasmine.chraibi@example.com
-4;MOUAD;ELKARARI;GI;20;etu_6afb33c1621e9.jpg;
